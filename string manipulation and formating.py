@@ -23,3 +23,11 @@ print(name + " is " + str(age) + " years old")
 a = "apple , bannana , mango , cherry , framboose"
 print(a[:])
 print(a [0::2])
+
+#random things always work
+import random
+print(random.randint(1,10))
+a = ["sdbhcbsdhjbchjdsb","jdkchjdsbfhjdsbfhjbsdjfh","sdbhsdbwedhebfi"]
+print(random.choice(a))
+
+
